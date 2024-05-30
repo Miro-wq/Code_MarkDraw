@@ -1,8 +1,4 @@
-Of course! Here is a brief description in English that you can use for your GitHub repository:
-
----
-
-## MarkDraw
+## Code_MarkDraw
 
 MarkDraw is a versatile web application that allows you to take notes in markdown format and draw on a canvas using your mouse or a stylus. Whether you're jotting down ideas, sketching diagrams, or combining both, MarkDraw offers a seamless and intuitive user experience.
 
