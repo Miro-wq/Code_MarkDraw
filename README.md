@@ -49,5 +49,3 @@ Code_MarkDraw is a versatile web application that allows you to take notes in ma
 Contributions are welcome! Feel free to open an issue or submit a pull request with your improvements.
 
 ---
-
-Feel free to adjust any part of this description to better fit your project's specifics.
